@@ -14,7 +14,7 @@
 
 **GitHub Repository URL: https://github.com/upenn-embedded/final-project-f25-f25-final_project-t30.git**
 
-**GitHub Pages Website URL:** [for final submission]*
+**GitHub Pages Website URL: https://zexinf666.github.io/final-project-website-submission-f25-t30-f25-int-main-void/** 
 
 ## Final Project Proposal
 
